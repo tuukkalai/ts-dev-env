@@ -23,7 +23,7 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: tuukkalai/ts-dev-env:latest
+          tags: tuukkala/ts-dev-env:latest
       -
         name: Deploy to Heroku
         uses: AkhileshNS/heroku-deploy@v3.12.12

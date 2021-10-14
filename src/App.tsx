@@ -11,7 +11,6 @@ function App() {
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
         <h2>Additional header in between</h2>
-        <h5>Once more changes..</h5>
         <a
           className="App-link"
           href="https://reactjs.org"
